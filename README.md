@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040350
+# Name:Thamizh.S
+# Date:15.05.2025
 
 
 # AIM:
